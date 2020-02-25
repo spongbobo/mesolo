@@ -94,7 +94,7 @@
             <header class="module__header ft__center">赏口猫粮吧</header>
             <main class="module__content--three module__content fn__clear ft__center">
                 <div style="text-align: center">
-                    <img src="http://re.cmaomao.cn/public/images/me.png" width="280px" height="250px" />
+                    <img src="https://re.cmaomao.cn/public/images/me.png" width="280px" height="250px" />
                 </div>
             </main>
         </div>
