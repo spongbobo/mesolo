@@ -28,7 +28,9 @@
     <#if noticeBoard??>
         <section class="vditor-reset module">
             <main class="module__content">
+                <div style="text-align: center">
                 ${noticeBoard}
+                </div>
             </main>
         </section>
     </#if>
@@ -87,6 +89,28 @@
         </div>
     </#if>
 
+<#--    <#if 0 != mostUsedTags?size>-->
+        <div class="module item">
+            <header class="module__header ft__center">赏口猫粮吧</header>
+            <main class="module__content--three module__content fn__clear ft__center">
+                <div style="text-align: center">
+                    <img src="http://re.cmaomao.cn/public/images/me.png" width="280px" height="250px" />
+                </div>
+            </main>
+        </div>
+<#--    </#if>-->
+
+    <#--    <#if 0 != mostUsedTags?size>-->
+    <div class="module item">
+        <header class="module__header ft__center">Music</header>
+        <main class="module__content--three module__content fn__clear ft__center" >
+            <div style="text-align: center;width: 100%;height: 100px" >
+                <iframe  frameborder="no" border="0" marginwidth="0" marginheight="0"  width=250 height=86 src="//music.163.com/outchain/player?type=2&id=413812448&auto=1&height=66"></iframe>
+            </div>
+        </main>
+    </div>
+    <#--    </#if>-->
+
     <div class="module item">
         <div class="module__header">
             <div class="fn__flex">
@@ -108,4 +132,5 @@
             </div>
         </div>
     </div>
+
 </aside>

@@ -25,12 +25,12 @@
     <div class="fn__none"></div>
     <br/>
 
-    Powered by <a href="https://solo.b3log.org" target="_blank">Solo</a>
+    Master by <a href="https://www.cmaomao.cn" target="_blank">maomao</a>
     <div class="fn__none"></div>
-    &nbsp; &heartsuit;  &nbsp;
-    Theme ${skinDirName}
-    <sup>[<a href="https://github.com/ZEROKISEKI/hexo-theme-gal" target="_blank">ref</a>]</sup>
-    by <a href="http://vanessa.b3log.org" target="_blank">Vanessa</a>
+    &nbsp; &heartsuit;  &nbsp;Powered by Solo
+<#--    Theme ${skinDirName}-->
+<#--    <sup>[<a href="https://github.com/ZEROKISEKI/hexo-theme-gal" target="_blank">ref</a>]</sup>-->
+<#--    by <a href="http://vanessa.b3log.org" target="_blank">Vanessa</a>-->
 </footer>
 <div class="icon-up" onclick="Util.goTop()"></div>
 
